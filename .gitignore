@@ -1,0 +1,6 @@
+.DS_Store
+.nova
+**/**/*.png
+**/**/*.jpg
+**/**/*.jpeg
+**/**/*.gif
